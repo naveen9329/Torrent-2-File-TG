@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     message_id = 99
     # display the /help message
     await message.reply_text(
-        f"Hai,Mate How Are You? Don't Leech Porn",
+        f"Hi How Are You? Don't Leech Porn I will kick you from group",
         quote=True
     )
 
